@@ -1,0 +1,10 @@
+export function string(): any;
+export function boolean(): any;
+export function integer(): any;
+export function func(): any;
+export function object(): any;
+export function array(): any;
+export function uri(): any;
+export function required(): any;
+export function schemaFor(config: any): any;
+export function validateOptions(schema: any, options: any): any;
